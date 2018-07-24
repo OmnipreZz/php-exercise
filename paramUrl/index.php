@@ -10,7 +10,7 @@
 </head>
 <body style="text-align:center;">
 
-    <h1 style="color:red; text-decoration:underline;">Loop</h1>
+    <h1 style="color:red; text-decoration:underline;">ParamUrl</h1>
 
     <h2>Exercice 1</h2>
     <?php include "exercice1.php";?>
